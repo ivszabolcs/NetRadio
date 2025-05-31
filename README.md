@@ -1,5 +1,5 @@
 # 1. clone the repo
-git clone https://github.com/ivszabolcs/NetRadio.git
+git clone https://github.com/ivszabolcs/NetRadio.git \
 cd NetRadio
 
 # 2. creates a new virtual environment
