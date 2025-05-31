@@ -1,0 +1,17 @@
+{
+    "stations": {
+        "Heart90s": "https://media-ssl.musicradio.com/Heart90s",
+        "Heart80s": "https://media-ice.musicradio.com/Heart80sMP3",
+        "Heart70s": "https://media-ssl.musicradio.com/Heart70s",
+        "Radio Swiss Pop": "http://stream.srg-ssr.ch/m/rsp/mp3_128",
+        "Real Hardstyle": "https://stream.realhardstyle.nl/",
+        "J-POP Project": "https://26343.live.streamtheworld.com/SAM10AAC139.mp3?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=857defa3-aae0-4d77-90f4-a395c19b0a7a"
+    },
+    "appearance_mode": "dark",
+    "window_size": [
+        450,
+        200
+    ],
+    "last_station": "Real Hardstyle",
+    "last_volume": 46
+}
