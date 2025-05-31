@@ -1,6 +1,6 @@
 # 1. clone the repo
-git clone https://github.com/ivszabolcs/NetRadio.git\
-cd NetRadio\
+git clone https://github.com/ivszabolcs/NetRadio.git
+cd NetRadio
 
 # 2. creates a new virtual environment
 1. python -m venv venv\
